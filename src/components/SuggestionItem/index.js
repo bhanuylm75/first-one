@@ -9,7 +9,7 @@ const SuggestionItem = props => {
 
   return (
     <li className="list">
-      <p>{suggestion}</p>
+      <p>{suggestion#}</p>
       <img
         onClick={click}
         className="img1"
