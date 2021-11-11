@@ -19,7 +19,7 @@ In this project, let's build a **Google Search Suggestions** app by applying the
 </details>
 
 ### Set Up Instructions
-
+,
 <details>
 <summary>Click to view</summary>
 
